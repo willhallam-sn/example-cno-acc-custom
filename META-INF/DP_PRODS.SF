@@ -1,0 +1,21 @@
+Signature-Version: 1.0
+SHA-256-Digest-Manifest-Main-Attributes: +fBgN3lT0kUtT1q3MLgY1JiDzUt2T
+ jzprllm5cW/LuM=
+SHA-256-Digest-Manifest: zGCxUvxWiAhC6d+Zy5X6+uReyZJ2xDG744Wna4ZZpH0=
+Created-By: 1.8.0_312 (Private Build)
+
+Name: Dockerfile
+SHA-256-Digest: loOO17QaRIaHnBa1siP8GcPwU2fUXBPRvc+h2UsSX/c=
+
+Name: acc.env
+SHA-256-Digest: XvHTQFm164wiv+7IEe6oMYHos64yzzYMx5bDf36CEZ8=
+
+Name: .env
+SHA-256-Digest: n3zTu8vElGxxdtUe2u4XkO7CUJ7mwO+VKp/8apPL7no=
+
+Name: LICENSE
+SHA-256-Digest: EdG13K+4mHwv4ePXne6qO3421yazxjvhXGWv8sAGBmw=
+
+Name: start_agent.sh
+SHA-256-Digest: uH4GO7VUxXJMvzOhCr9UvzREZqyrBK7Tz3a/7a3HAn4=
+
